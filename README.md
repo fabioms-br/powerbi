@@ -14,6 +14,7 @@ Apresentamos nesse vídeo como obter dados do recurso Azure Data Lake definindo 
 ## [2. Instalar Servidor de Relatórios Power BI On-Premises](/powerbi-instalar-servidor-relatorio-onpremises.md)
 Apresentamos nesse vídeo como instalar o Power BI Report Server e o Power BI Desktop Report Server para publicar e disponibilizar os relatórios em Servidor On-Premises.
 > Assista ao vídeo: [http://www.fabioms.com.br/?url=powerbi-instalar-servidor-relatorio-onpremises](http://www.fabioms.com.br/?url=powerbi-instalar-servidor-relatorio-onpremises)  
+
 ✅ Relatório Power BI utilizado
 [Sales-Returns-Sample-v201912-rs.pbix](/Sales-Returns-Sample-v201912-rs.pbix)
 

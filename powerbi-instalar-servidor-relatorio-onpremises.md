@@ -14,7 +14,7 @@ Iremos conhecer as técnicas:
 🔹Efetuar upload de relatório Power BI Desktop Report Server (UPLOAD).  
 
 ▶️ Acesse o vídeo no link abaixo:
-http://www.fabioms.com.br/?url=powerbi-instalar-servidor-relatorio-onpremises
+https://www.fabioms.com.br/?url=powerbi-instalar-servidor-relatorio-onpremises
 
 ✅ Instalador Power BI Report Server e Power BI Desktop RS:
 https://www.microsoft.com/en-us/download/details.aspx?id=57270&WT.mc_id=DP-MVP-5004844
@@ -23,9 +23,9 @@ https://www.microsoft.com/en-us/download/details.aspx?id=57270&WT.mc_id=DP-MVP-5
 https://learn.microsoft.com/en-us/power-bi/create-reports/sample-datasets?WT.mc_id=DP-MVP-5004844
 
 📁 Arquivos disponíveis no GitHub:
-http://www.fabioms.com.br/?url=github
+https://www.fabioms.com.br/?url=github
 
 😉 Gostou do conteúdo? Inscreva-se também no canal:
-http://www.fabioms.com.br/?url=youtube-subscribe
+https://www.fabioms.com.br/?url=youtube-subscribe
 
 #microsoft #dataplatform #powerbi #reportserver #mvp #DicadoFabinho

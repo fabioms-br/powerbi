@@ -23,3 +23,14 @@ Apresentamos nesse vídeo como instalar o Power BI Report Server e o Power BI De
 
 ✅ Exemplos de relatório Power BI para download:
 [https://learn.microsoft.com/en-us/power-bi/create-reports/sample-datasets](https://learn.microsoft.com/en-us/power-bi/create-reports/sample-datasets?WT.mc_id=DP-MVP-5004844)
+## [3. #061 Como obter e publicar dados de planilha excel no Power BI](/powerbi-obter-dados-excel.md)
+Apresentamos nesse vídeo como obter os dados de planilha excel e publicar o relatório no Power BI, garantindo a atualização do conjunto de dados da nuvem seja executada a partir dos dados no computador local. 
+> Assista ao vídeo: [http://www.fabioms.com.br/?url=powerbi-obter-dados-excel](http://www.fabioms.com.br/?url=powerbi-obter-dados-excel)  
+
+## [4. Como obter e publicar dados do SAP HANA no Power BI](/powerbi-obter-dados-sap-hana.md)
+
+> Assista ao vídeo: [http://www.fabioms.com.br/?url=powerbi-obter-dados-sap-hana](http://www.fabioms.com.br/?url=powerbi-obter-dados-sap-hana)  
+
+## [5. Como obter e publicar dados do MySQL no Power BI](/powerbi-obter-dados-mysql.md)
+Apresentamos nesse vídeo como obter os dados do banco de dados MySQL e publicar no Power BI Serviço, garantindo a atualização do conjunto de dados na nuvem a partir de sua origem no computador local.
+> Assista ao vídeo: [http://www.fabioms.com.br/?url=powerbi-obter-dados-mysql](http://www.fabioms.com.br/?url=powerbi-obter-dados-mysql)  

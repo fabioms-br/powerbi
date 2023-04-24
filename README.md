@@ -34,3 +34,7 @@ Apresentamos nesse vídeo como obter os dados de planilha excel e publicar o rel
 ## [5. Como obter e publicar dados do MySQL no Power BI](/powerbi-obter-dados-mysql.md)
 Apresentamos nesse vídeo como obter os dados do banco de dados MySQL e publicar no Power BI Serviço, garantindo a atualização do conjunto de dados na nuvem a partir de sua origem no computador local.
 > Assista ao vídeo: [http://www.fabioms.com.br/?url=powerbi-obter-dados-mysql](http://www.fabioms.com.br/?url=powerbi-obter-dados-mysql)  
+
+## [6. Como obter e publicar dados do Access no Power BI](/powerbi-como-obter-e-publicar-dados-access.md)
+Apresentamos nesse vídeo como obter os dados do banco de dados Access e publicar no Power BI Serviço, garantindo a atualização do conjunto de dados na nuvem a partir de sua origem no computador local.
+> Assista ao vídeo: [http://www.fabioms.com.br/?url=powerbi-como-obter-e-publicar-dados-access](http://www.fabioms.com.br/?url=powerbi-como-obter-e-publicar-dados-access)  

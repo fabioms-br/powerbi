@@ -7,7 +7,7 @@
 > **Youtube playlist**: [https://youtube.com/playlist?list=PL3CylihEP9USDJLa57_mfgieP2JOSl-NV](https://youtube.com/playlist?list=PL3CylihEP9USDJLa57_mfgieP2JOSl-NV)  
 
 
-## [1. Obter Dados do Azure Datalake utilizando Dataflow no Power BI](/powerbi-dataflow-obter-dados-datalake.md)
+## [1. #092 Como obter dados do Azure Datalake utilizando Dataflow no Power BI](/powerbi-dataflow-obter-dados-datalake.md)
 Apresentamos nesse vídeo como obter dados do recurso Azure Data Lake definindo as permissões de acesso e criando um fluxo de dados no Power BI Serviço para ser consumido e publicado na nuvem.
 > Assista ao vídeo: [http://www.fabioms.com.br/?url=powerbi-dataflow-obter-dados-datalake](http://www.fabioms.com.br/?url=powerbi-dataflow-obter-dados-datalake)  
 
@@ -28,7 +28,7 @@ Apresentamos nesse vídeo como obter os dados de planilha excel e publicar o rel
 > Assista ao vídeo: [http://www.fabioms.com.br/?url=powerbi-obter-dados-excel](http://www.fabioms.com.br/?url=powerbi-obter-dados-excel)  
 
 ## [4. Como obter e publicar dados do SAP HANA no Power BI](/powerbi-obter-dados-sap-hana.md)
-
+Apresentamos nesse vídeo como obter os dados do banco de dados SAP HANA e publicar no Power BI Serviço, garantindo a atualização do conjunto de dados na nuvem a partir de sua origem no computador local
 > Assista ao vídeo: [http://www.fabioms.com.br/?url=powerbi-obter-dados-sap-hana](http://www.fabioms.com.br/?url=powerbi-obter-dados-sap-hana)  
 
 ## [5. Como obter e publicar dados do MySQL no Power BI](/powerbi-obter-dados-mysql.md)
@@ -38,3 +38,7 @@ Apresentamos nesse vídeo como obter os dados do banco de dados MySQL e publicar
 ## [6. Como obter e publicar dados do Access no Power BI](/powerbi-como-obter-e-publicar-dados-access.md)
 Apresentamos nesse vídeo como obter os dados do banco de dados Access e publicar no Power BI Serviço, garantindo a atualização do conjunto de dados na nuvem a partir de sua origem no computador local.
 > Assista ao vídeo: [http://www.fabioms.com.br/?url=powerbi-como-obter-e-publicar-dados-access](http://www.fabioms.com.br/?url=powerbi-como-obter-e-publicar-dados-access)  
+
+## [7. Como obter e publicar dados do Azure Databricks no Power BI](/como-obter-e-publicar-dados-azure-databricks-no-power-bi.md)
+Apresentamos nesse vídeo como obter os dados do Azure Databricks e publicar no Power BI Serviço, garantindo que o conjunto de dados seja atualizado corretamente  
+> Assista ao vídeo: [http://www.fabioms.com.br/?url=como-obter-e-publicar-dados-azure-databricks-no-power-bi](http://www.fabioms.com.br/?url=como-obter-e-publicar-dados-azure-databricks-no-power-bi)  

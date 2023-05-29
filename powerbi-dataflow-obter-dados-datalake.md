@@ -1,6 +1,6 @@
-## Obter Dados do Azure Datalake utilizando Dataflow no Power BI
+## #092 Como obter dados do Azure Datalake utilizando Dataflow no Power BI
 
-<img src="https://fabioms.com.br//uploads/youtube/3XPZaGmvA1o.png" alt="Obter Dados do Azure Datalake utilizando Dataflow no Power BI" title="PowerBI" width="320"/>
+<img src="https://fabioms.com.br//uploads/youtube/Slide92.mp4" alt="#092 Como obter dados do Azure Datalake utilizando Dataflow no Power BI" title="PowerBI" width="320"/>
 
 Apresentamos nesse vídeo como obter dados do recurso Azure Data Lake definindo as permissões de acesso e criando um fluxo de dados no Power BI Serviço para ser consumido e publicado na nuvem.
 

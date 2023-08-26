@@ -1,6 +1,6 @@
 ## Instalar Servidor de Relatórios Power BI On-Premises
 
-<img src="https://fabioms.com.br//uploads/youtube/hL8fgCQLRdE.png" alt="Instalar Servidor de Relatórios Power BI On-Premises" title="PowerBI" width="320"/>
+<img src="https://fabioms.com.br//uploads/youtube/Slide93.png" alt="Instalar Servidor de Relatórios Power BI On-Premises" title="PowerBI" width="320"/>
 
 Apresentamos nesse vídeo como instalar o Power BI Report Server e o Power BI Desktop Report Server para publicar e disponibilizar os relatórios em Servidor On-Premises.
 

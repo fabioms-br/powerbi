@@ -42,3 +42,19 @@ Apresentamos nesse vídeo como obter os dados do banco de dados Access e publica
 ## [7. Como obter e publicar dados do Azure Databricks no Power BI](/como-obter-e-publicar-dados-azure-databricks-no-power-bi.md)
 Como obter os dados do Azure Databricks e publicar no Power BI Serviço, garantindo que o conjunto de dados seja atualizado corretamente  
 > Assista ao vídeo: [http://www.fabioms.com.br/?url=como-obter-e-publicar-dados-azure-databricks-no-power-bi](http://www.fabioms.com.br/?url=como-obter-e-publicar-dados-azure-databricks-no-power-bi)  
+
+## [8. Como obter e publicar dados do Google Analytics no Power BI](/como-obter-e-publicar-dados-do-google-analytics-no-power-bi.md)
+Como obter dados do Google Analytics no Power BI Desktop e publicá-los no Power BI Serviço, garantindo que eles sejam atualizados corretamente
+> Assista ao vídeo: [http://www.fabioms.com.br/?url=como-obter-e-publicar-dados-do-google-analytics-no-power-bi](http://www.fabioms.com.br/?url=como-obter-e-publicar-dados-do-google-analytics-no-power-bi)  
+
+## [9. Como obter e publicar dados em formato Parquet no Power BI](/como-obter-e-publicar-dados-em-formato-parquet-no-power-bi.md)
+Como obter dados de arquivo em fomato Parquet, armazendados no Azure Data Lake para publicar no Power BI Serviço
+> Assista ao vídeo: [http://www.fabioms.com.br/?url=como-obter-e-publicar-dados-em-formato-parquet-no-power-bi](http://www.fabioms.com.br/?url=como-obter-e-publicar-dados-em-formato-parquet-no-power-bi)  
+
+## [10. Como calcular rentabilidade de renda fixa no Power BI](/como-calcular-rentabilidade-renda-fixa-power-bi.md)
+Descubra como calcular rentabilidade de investimentos no Power BI: tabelas, taxas, juros compostos e otimize medidas DAX
+> Assista ao vídeo: [http://www.fabioms.com.br/?url=como-calcular-rentabilidade-renda-fixa-power-bi](http://www.fabioms.com.br/?url=como-calcular-rentabilidade-renda-fixa-power-bi)  
+
+## [11. Como Importar Dados Financeiros do Yahoo Finance para o Power BI](/como-obter-dados-financeiros-no-power-bi.md)
+Descubra como realizar consultas dinâmicas de dados financeiros do Yahoo Finance no Power BI Desktop
+> Assista ao vídeo: [http://www.fabioms.com.br/?url=como-obter-dados-financeiros-no-power-bi](http://www.fabioms.com.br/?url=como-obter-dados-financeiros-no-power-bi)  
